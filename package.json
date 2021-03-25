@@ -1,0 +1,19 @@
+{
+  "name": "utility-website-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "js-sha1": "^0.6.0",
+    "js-sha256": "^0.9.0",
+    "js-sha512": "^0.8.0",
+    "md5": "^2.3.0"
+  }
+}
